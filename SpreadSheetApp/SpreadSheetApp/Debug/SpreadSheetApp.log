@@ -1,0 +1,5 @@
+﻿  Solution.cpp
+C:\Users\atu\source\repos\SpreadSheetApp\SpreadSheetApp\Solution.cpp(32,14): warning C4018: '<': signed/unsigned mismatch
+C:\Users\atu\source\repos\SpreadSheetApp\SpreadSheetApp\Solution.cpp(35,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\atu\source\repos\SpreadSheetApp\SpreadSheetApp\Solution.cpp(45,22): warning C4018: '<': signed/unsigned mismatch
+  SpreadSheetApp.vcxproj -> C:\Users\atu\source\repos\SpreadSheetApp\Debug\SpreadSheetApp.exe

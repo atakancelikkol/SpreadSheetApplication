@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SpreadSheetApp", "SpreadSheetApp\SpreadSheetApp.vcxproj", "{92AB863F-4F6B-4BB5-9D01-422C5B47833A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Debug|x64.ActiveCfg = Debug|x64
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Debug|x64.Build.0 = Debug|x64
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Debug|x86.ActiveCfg = Debug|Win32
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Debug|x86.Build.0 = Debug|Win32
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Release|x64.ActiveCfg = Release|x64
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Release|x64.Build.0 = Release|x64
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Release|x86.ActiveCfg = Release|Win32
+		{92AB863F-4F6B-4BB5-9D01-422C5B47833A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5329BFF-BC86-4CF4-BD61-BA671B56F9F3}
+	EndGlobalSection
+EndGlobal
